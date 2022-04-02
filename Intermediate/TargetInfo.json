@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KatanaShowdown",
+			"Path": "C:\\Users\\Khang\\Documents\\Unreal Projects\\KatanaShowdown\\Source\\KatanaShowdown.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KatanaShowdownEditor",
+			"Path": "C:\\Users\\Khang\\Documents\\Unreal Projects\\KatanaShowdown\\Source\\KatanaShowdownEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

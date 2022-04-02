@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Khang\\Documents\\Unreal Projects\\KatanaShowdown\\Source\\KatanaShowdown\\KatanaShowdown.Build.cs",
+		"C:\\Users\\Khang\\Documents\\Unreal Projects\\KatanaShowdown\\Source\\KatanaShowdown.Target.cs",
+		"C:\\Users\\Khang\\Documents\\Unreal Projects\\KatanaShowdown\\Source\\KatanaShowdownEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

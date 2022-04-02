@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KatanaShowdown-2941.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\KatanaShowdownEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\UE4Editor\Development\KatanaShowdown\KatanaShowdown.cpp.obj"
+"C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\UE4Editor\Development\KatanaShowdown\KatanaShowdownGameModeBase.cpp.obj"
+"C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\UE4Editor\Development\KatanaShowdown\KatanaShowdown.init.gen.cpp.obj"
+"C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\UE4Editor\Development\KatanaShowdown\KatanaShowdownGameModeBase.gen.cpp.obj"
+"C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\UE4Editor\Development\KatanaShowdown\Default.rc2.res"
+/OUT:"C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\UE4Editor\Development\KatanaShowdown\UE4Editor-KatanaShowdown-2941.lib"

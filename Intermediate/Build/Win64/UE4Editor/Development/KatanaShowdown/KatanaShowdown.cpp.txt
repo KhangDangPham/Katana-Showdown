@@ -1,0 +1,2 @@
+C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\UE4Editor\Development\KatanaShowdown\Definitions.KatanaShowdown.h
+C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Source\KatanaShowdown\KatanaShowdown.h

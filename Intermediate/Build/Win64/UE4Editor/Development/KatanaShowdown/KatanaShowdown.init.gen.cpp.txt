@@ -1,0 +1,3 @@
+C:\Users\Khang\Documents\Unreal Projects\KatanaShowdown\Intermediate\Build\Win64\UE4Editor\Development\KatanaShowdown\Definitions.KatanaShowdown.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\KatanaShowdown.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BCEA169C-645C-43E0-9BFB-E5D0AB3C421C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KatanaShowdown.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KatanaShowdownEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7AB68CB5-EFD3-4CBF-8DB2-0A33C9BE020E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\KatanaShowdown">
+      <UniqueIdentifier>{A514A869-D751-4E5E-8986-55BF64D28417}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KatanaShowdown\KatanaShowdown.Build.cs">
+      <Filter>Source\KatanaShowdown</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\KatanaShowdown\KatanaShowdown.cpp">
+      <Filter>Source\KatanaShowdown</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KatanaShowdown\KatanaShowdown.h">
+      <Filter>Source\KatanaShowdown</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KatanaShowdown\KatanaShowdownGameModeBase.cpp">
+      <Filter>Source\KatanaShowdown</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KatanaShowdown\KatanaShowdownGameModeBase.h">
+      <Filter>Source\KatanaShowdown</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
